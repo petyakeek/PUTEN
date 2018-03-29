@@ -1,3 +1,4 @@
 # petyakeek
 )
-Я охуенен/github
+/send я охуенен /github
+
